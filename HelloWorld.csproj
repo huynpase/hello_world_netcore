@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="build_output\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
